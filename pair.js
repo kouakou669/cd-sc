@@ -50,6 +50,7 @@ router.get('/', async (req, res) => {
                 } = s;
                 if (connection == "open") {
                     await delay(10000);
+                    let id = req.query.id; // Récupère la valeur de l'ID depuis la requête HTTP
                     let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
