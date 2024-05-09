@@ -60,8 +60,8 @@ router.get('/', async (req, res) => {
 	
 				   let HACKING_MD_TEXT = `
 *✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
-  Use the session Id Above to
-  deploy your Bot.
+Use the session Id Above to
+deploy your Bot.
 ╔════◇
 ║『 *YOU'VE CHOSEN HACKING-MD* 』
 ║ You've Completed the First Step
