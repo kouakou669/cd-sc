@@ -14,7 +14,7 @@ const {
 	Browsers,
 	delay,
 	makeInMemoryStore,
-} = require("gifted-baileys");
+} = require("@sampandey001/baileys");
 
 function removeFile(FilePath) {
 	if (!fs.existsSync(FilePath)) return false;
