@@ -64,7 +64,7 @@ deploy your Bot.
 ╚════════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/2250545065189
+║❒ 𝐎𝐰𝐧𝐞𝐫: https://wa.me/2250705607226
 ║❒ 𝐑𝐞𝐩𝐨: https://github.com/HACKING995/HACKING--MD9
 ║❒ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: https://t.me/freeeherokucc
 ║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@device.bot.thomas?si=1XTGwLjhIuk5XeNN
